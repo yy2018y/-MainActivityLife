@@ -1,2 +1,1 @@
-Test for MainActivityLife
-截图： https://blog.csdn.net/yong_ye_/article/details/88659778
+![](https://i.loli.net/2019/03/20/5c91aae310969.png)
